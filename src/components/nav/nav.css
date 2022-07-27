@@ -1,0 +1,15 @@
+.nav {
+  display: flex;
+  align-items: center;
+}
+
+.nav a {
+  color: #406fb6;
+  margin: 1rem 0.5rem;
+  transition: color 0.4s ease;
+  font-size: 1.2rem;
+}
+
+.nav a:hover {
+  color: aliceblue;
+}
